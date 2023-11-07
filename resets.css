@@ -1,0 +1,109 @@
+/* Reset Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  html, body, div, h1, h2, h3, h4, h5, h6, p, a, img, ul, ol, li, form, input, button {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    font-weight: normal;
+    vertical-align: baseline;
+  }
+  
+  body {
+    line-height: 1;
+  }
+  
+  ol, ul {
+    list-style: none;
+  }
+  
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  button, input, select, textarea {
+    font-family: inherit;
+  }
+  
+  /* Normalize Styles */
+  /* Normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
+  
+  /* Document
+     ========================================================================== */
+  
+  /**
+   * 1. Correct the line height in all browsers.
+   * 2. Prevent adjustments of font size after orientation changes in iOS.
+   */
+  
+  html {
+    line-height: 1.15; /* 1 */
+    -webkit-text-size-adjust: 100%; /* 2 */
+  }
+  
+  /* Sections
+     ========================================================================== */
+  
+  /**
+   * Remove the margin in all browsers.
+   */
+  
+  body {
+    margin: 0;
+  }
+  
+  /**
+   * Add the correct display in IE 9-.
+   */
+  
+  article,
+  aside,
+  footer,
+  header,
+  nav,
+  section {
+    display: block;
+  }
+  
+  /**
+   * 1. Correct the font style in IE 9-.
+   * 2. Remove the padding in IE 9-.
+   */
+  
+  h1 {
+    font-size: 2em; /* 1 */
+    margin: 0.67em 0; /* 2 */
+  }
+  
+  /**
+   * 1. Remove the border on images inside links in IE 10-.
+   * 2. Remove the border on images as links in IE 10-.
+   */
+  
+  a {
+    background-color: transparent; /* 1 */
+    -webkit-text-decoration-skip: objects; /* 2 */
+  }
+  
+  /**
+   * Remove the outline in IE 10-.
+   */
+  
+  a:active,
+  a:hover {
+    outline-width: 0;
+  }
+  
+  /* etc. (Normalize.css includes styles for many elements) */
+  
+  /* Custom Styles */
+  /* You can add your custom styles below this point. */
+  
+  
